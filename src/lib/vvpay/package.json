@@ -1,0 +1,15 @@
+{
+  "name": "vvpay",
+  "version": "1.0.0",
+  "description": "基于vue项目的移动端支付密码框插件",
+  "main": "index.js",
+  "keywords": [
+    "vvpay",
+    "vue",
+    "vue-pay",
+    "pay-password",
+    "password"
+  ],
+  "author": "cyycyy614@126.com",
+  "license": ""
+}
